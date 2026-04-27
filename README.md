@@ -122,11 +122,11 @@ int main(void)
 ```
 
 ## OUTPUT
-<img width="867" height="1156" alt="exp1-1" src="https://github.com/user-attachments/assets/658737a8-0efb-4c8c-8c33-6549ac1574bb" />
+<img width="640" height="640" alt="exp1-1" src="https://github.com/user-attachments/assets/658737a8-0efb-4c8c-8c33-6549ac1574bb" />
 
+<br>
 
-
-<img width="867" height="1156" alt="exp1-2" src="https://github.com/user-attachments/assets/510a2144-74fd-4f58-a508-6efd1516aae3" />
+<img width="640" height="640" alt="exp1-2" src="https://github.com/user-attachments/assets/510a2144-74fd-4f58-a508-6efd1516aae3" />
 
 
 
